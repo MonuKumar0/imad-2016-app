@@ -1,3 +1,3 @@
 console.log('Loaded!');
-var k=getElementById("main");
+var k=document.getElementById("main");
 k.inner("Monu");
