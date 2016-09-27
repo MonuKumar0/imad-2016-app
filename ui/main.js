@@ -3,7 +3,11 @@ var k=document.getElementById("main");
 k.innerHTML="Hi,This is Monu Kumar";
 var img=document.getElementById('im');
 var margin=100;
+function  move(){
+    img.style.marginLeft=margin+"px";
+}
 img.onclick=function (){
-img.style.marginLeft='200px';
+var interval=setInterval(move,50);
+
 
 };
