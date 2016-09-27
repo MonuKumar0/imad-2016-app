@@ -17,6 +17,6 @@ var button=document.getElementById("b");
 b.onclick=function(){
     counter=counter+1;
     var s=document.getElementById("s");
-    s.innerHTML=counter.toString();
+    s.innerHTML=" "+counter.toString()+"times";
 };
 
