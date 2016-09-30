@@ -14,7 +14,7 @@ var interval=setInterval(move,50);
 };
 var counter=0;
 var button=document.getElementById("b");
-b.onclick=function(){
+button.onclick=function(){
     var nameInput=document.getElementById("name");
     var name=nameInput.value;
     
