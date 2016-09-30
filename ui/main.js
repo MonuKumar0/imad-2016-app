@@ -34,7 +34,7 @@ request.onreadystatechange=function(){
         }
     }
 };
-request.open("GET","http://monukumar0.imad.hasura-app.io/submit-name?name"+name,true);
+request.open("GET","http://monukumar0.imad.hasura-app.io/submit-name?name="+name,true);
 request.send(null);
 };
 
