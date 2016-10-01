@@ -22,7 +22,8 @@ var request=new XMLHttpRequest();
 request.onreadystatechange=function(){
     if(request.readyState===XMLHttpRequest.DONE){
         if(request.status===200){
-   
+            request.open("GET","http://monukumar0.imad.hasura-app.io/submit-name?name="+name,true);
+request.send(null);
             var names=request.responseText;
             names=JSON.parse(names);
             var list="";
@@ -35,8 +36,7 @@ request.onreadystatechange=function(){
         }
     }
 };
-         request.open("GET","http://monukumar0.imad.hasura-app.io/submit-name?name="+name,true);
-request.send(null);
+
 
 };
 
