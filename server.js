@@ -19,7 +19,7 @@ app.get('/ui/style.css', function (req, res) {
 app.get('/ui/IMG_20160524_001023.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'IMG_20160524_001023.jpg'));
 });
-var names=["njnik"];
+var names=[""];
 app.get("/submit-name",function(req,res){
     var name=req.params.name;
     names.push(name);
