@@ -21,7 +21,7 @@ app.get('/ui/IMG_20160524_001023.jpg', function (req, res) {
 });
 var names=[""];
 app.get("/submit-name",function(req,res){
-    var name=req.query.name;
+    var name=res.query.name;
     names.push(name);
     res.send(JSON.stringify(names));
 });
