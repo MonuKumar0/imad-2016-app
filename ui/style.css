@@ -19,7 +19,7 @@ body {
     font-weight: bold;
 }
 .sub{
-    position:fixed;
+    position:absolute;
     top:1;
     right:0;
     background-color:blue;
