@@ -19,7 +19,9 @@ body {
     font-weight: bold;
 }
 .sub{
-    margin-top:0px;
+    position:fixed;
+    bottom:0;
+    right:0;
 }
 .img-medium {
     height: 200px;
