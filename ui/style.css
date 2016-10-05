@@ -22,7 +22,7 @@ body {
     position:fixed;
     top:10;
     right:0;
-    background-image:;
+    background-image:url(/ui/madi.png);
 }
 .img-medium {
     height: 200px;
