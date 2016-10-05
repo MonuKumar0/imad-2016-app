@@ -15,6 +15,9 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
+app.get('/ui/pieces_chess_boards_glass_68430_3840x2160.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'pieces_chess_boards_glass_68430_3840x2160.jpg'));
+});
 
 app.get('/ui/IMG_20160524_001023.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'IMG_20160524_001023.jpg'));
