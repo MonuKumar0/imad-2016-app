@@ -20,7 +20,7 @@ body {
 }
 .sub{
     position:fixed;
-    bottom:0;
+    top:10;
     right:0;
 }
 .img-medium {
