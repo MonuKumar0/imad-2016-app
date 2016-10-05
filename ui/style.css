@@ -20,9 +20,9 @@ body {
 }
 .sub{
     position:fixed;
-    top:10;
+    top:1;
     right:0;
-    background-image:url(/ui/madi.png);
+    background-color:blue;
 }
 .img-medium {
     height: 200px;
