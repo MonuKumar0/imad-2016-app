@@ -8,7 +8,10 @@ body {
     text-align: center;
         background-color:lightblue;
 }
-
+.div1{
+    height:100px;
+    background-color:red;
+}
 .text-big {
     font-size: 300%;
 }
