@@ -17,6 +17,9 @@ body {
     top:0px;
     left:0px;
 }
+.inner{
+    opacity:1.0;
+}
 .text-big {
     font-size: 300%;
 }
