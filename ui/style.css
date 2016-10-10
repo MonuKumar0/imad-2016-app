@@ -19,7 +19,8 @@ body {
     
 }
 .inner{
-    padding-left:800px;
+    padding-left:800px
+    padding-top:10px;
 }
 .text-big {
     font-size: 300%;
