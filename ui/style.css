@@ -13,6 +13,8 @@ body {
     background-color:maroon;
     padding-top:0px;
     width:100%;
+    position:relative;
+    top:0px;
 }
 .text-big {
     font-size: 300%;
