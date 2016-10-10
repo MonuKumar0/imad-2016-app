@@ -16,6 +16,9 @@ body {
 .text-big {
     font-size: 300%;
 }
+.bg{
+    background-image:url(/bb-8-normal.jpg);
+}
 
 .bold {
     font-weight: bold;
