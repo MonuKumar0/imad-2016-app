@@ -29,6 +29,9 @@ body {
 .text-big {
     font-size: 300%;
 }
+.sup{
+    width:50px;
+}
 .bg{
     background-image:url(/bb-8-normal.jpg);
     
