@@ -39,7 +39,11 @@ body {
     font-size: 300%;
 }
 
-
+.or{
+    position:absolute;
+    right:10px;
+    top:0;
+}
 .bg{
     background-image:url(/b.jpg);
   color:white;
