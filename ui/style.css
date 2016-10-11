@@ -56,12 +56,13 @@ body {
     border:2px solid;
     border-color:white;
     color:white;
+    line-height:30px;
 }
 .bg{
     background-image:url(/b.jpg);
   
   text-align:center;
-    line-height:45px;
+    
 }
 .frm{
     position:absolute;
