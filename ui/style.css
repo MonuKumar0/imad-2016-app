@@ -34,7 +34,9 @@ body {
 
 
 
-
+.tf{
+    border-radius:10px;
+}
 .text-big {
     font-size: 300%;
 }
