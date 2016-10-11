@@ -30,7 +30,8 @@ body {
     font-size: 300%;
 }
 .sup{
-    width:10px;
+    width:50px;
+     border-radius:15px;
 }
 .bg{
     background-image:url(/bb-8-normal.jpg);
