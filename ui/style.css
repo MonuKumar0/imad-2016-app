@@ -32,6 +32,9 @@ body {
     width:5%;
     margin-left:1100px;
 }
+#dl{
+    background-color:white;
+}
 .button{
 
     border-radius:15px;
