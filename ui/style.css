@@ -44,6 +44,14 @@ body {
     right:120px;
     top:0;
 }
+#sgn{
+    position:absolute;
+    right:40px;
+    top:0;
+    height:50px;
+    width:5%;
+    background-color:green;
+}
 .bg{
     background-image:url(/b.jpg);
   color:white;
