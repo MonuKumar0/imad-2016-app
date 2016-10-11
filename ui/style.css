@@ -53,10 +53,13 @@ body {
     height:50px;
     width:5%;
     background-color:springgreen;
+    border:2px solid;
+    border-color:white;
+    color:white;
 }
 .bg{
     background-image:url(/b.jpg);
-  color:white;
+  
   text-align:center;
     line-height:45px;
 }
