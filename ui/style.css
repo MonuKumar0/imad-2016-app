@@ -46,6 +46,7 @@ body {
 .frm{
     position:absolute;
     top:0;
+    left:800px;
 }
 
 .bold {
