@@ -22,6 +22,9 @@ body {
 }
 
 .div11{
+    position:absolute;
+    top=0;
+    right:10px;
     background-color:Maroon;
     height:50px;
     width:5%;
