@@ -26,10 +26,13 @@ body {
     top:8px;
     right:140px;
     background-color:white;
-    color:green;
+    color:springgreen;
     height:30px;
     width:5%;
     margin-left:1050px;
+    line-height:30px;
+    border:2px solid;
+    border-color:springgreen;
     
 }
 
