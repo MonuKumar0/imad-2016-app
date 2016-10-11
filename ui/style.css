@@ -62,6 +62,7 @@ body {
     position:absolute;
     top:0;
     left:800px;
+    border-radius:10px;
 }
 
 .bold {
