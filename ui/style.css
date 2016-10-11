@@ -16,7 +16,7 @@ body {
     position:absolute;
     top:0px;
     left:0px;
-    opacity:0.5;
+    
     
 }
 .inner{
@@ -37,7 +37,7 @@ body {
 }
 .bg{
     
-    
+  background-image:url(/bb-8-normal.jpg);  
     
 }
 
