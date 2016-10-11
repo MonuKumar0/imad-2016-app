@@ -45,6 +45,10 @@ body {
 
     border-radius:15px;
 }
+.a{
+    position:absolute;
+    top:0px;
+}
 .text-big {
     font-size: 300%;
 }
