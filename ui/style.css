@@ -20,12 +20,7 @@ body {
     
     
 }
-.inner{
-    padding-left:800px;
-    padding-top:15px;
-    color:white;
-    opacity:1.0;
-}
+
 .div11{
     background-color:Maroon;
     height:50px;
@@ -33,34 +28,24 @@ body {
     margin-left:1050px;
     border-radius:7px;
 }
-.div111{
-    height:50px;
-}
-#dl{
-    background-color:white;
-    height:50px;
-    padding-top:0px;
-}
-.button{
 
-    border-radius:15px;
-}
+
+
 
 .text-big {
     font-size: 300%;
 }
-.sup{
-    width:70px;
-     border-radius:15px;
-}
-.frm{
-    padding-left:800px;
-}
+
+
 .bg{
     background-image:url(/b.jpg);
   color:LawnGreen;
   text-align:center;
     line-height:45px;
+}
+.frm{
+    position:absolute;
+    top:0;
 }
 
 .bold {
