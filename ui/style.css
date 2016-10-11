@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: cursive;
     background-color: lightgrey;
     margin-top: 75px;
 }
@@ -40,6 +40,7 @@ body {
     top=0;
     left:10px;
     color:white;
+    width=50px;
 }
 
 
