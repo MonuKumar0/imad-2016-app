@@ -49,7 +49,7 @@ body {
 #sgn{
     position:absolute;
     right:40px;
-    top:0;
+    top:5px;
     height:40px;
     width:5%;
     background-color:springgreen;
