@@ -42,7 +42,9 @@ body {
     border-radius:5px;
 }
 .finner{
-    height:30px;
+    height:22px;
+    border:2px solid;
+    border-radius:5px;
 }
 #b{
     position:absolute;
