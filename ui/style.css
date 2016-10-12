@@ -46,6 +46,10 @@ body {
     margin-top:5px;
     border-radius:5px;
 }
+#dob{
+   margin-top:5px; 
+   color:white;
+}
 #btn{
     position:absolute;
     top:10px;
