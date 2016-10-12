@@ -37,13 +37,13 @@ body {
 }
 #div2{
     position:absolute;
-    top:40px;
+    top:100px;
     
     background-color:black;
     margin-left:0;
     height:600px;
     width:100%;
-    opacity:0.5;
+    opacity:0.3;
   
     
 
