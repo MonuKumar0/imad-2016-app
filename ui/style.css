@@ -32,6 +32,9 @@ body {
     right:200px;
 }
 #or{
+    position:absolute;
+    top:0;
+    right:50;
     height:30px;
     width:30px;
     color:white;
