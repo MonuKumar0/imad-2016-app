@@ -65,6 +65,16 @@ body {
 #sgnor{
     color:white;
 }
+#sgng{
+       height:30px;
+    width:300px;
+    background-color:Royalblue;
+    margin-top:5px;
+    border-radius:5px;
+    border-color:Royalblue;
+    color:white;
+    font-size:18px; 
+}
 #sgns{
     height:40px;
     width:300px;
