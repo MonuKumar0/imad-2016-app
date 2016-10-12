@@ -41,6 +41,9 @@ body {
     color:aqua;
     border-radius:5px;
 }
+.finner{
+    height:30px;
+}
 #b{
     position:absolute;
     top:0;
