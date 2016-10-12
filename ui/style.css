@@ -39,6 +39,7 @@ body {
     border-color:green;
     background-color:black;
     color:green;
+    border-radius:10px;
 }
 #b{
     position:absolute;
