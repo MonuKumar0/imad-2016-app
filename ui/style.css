@@ -43,6 +43,7 @@ body {
 .sgn{
     height:50px;
     width:300px;
+    margin-top:5px;
 }
 #btn{
     position:absolute;
