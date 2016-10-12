@@ -11,12 +11,12 @@ body {
 .div1{
     height:50px;
     background-color:maroon;
-    padding-top:0px;
+    
     width:100%;
     position:absolute;
-    top:0px;
-    left:0px;
-    right:0px;
+    top:0;
+    left:0;
+    right:0;
     opacity:0.5;
     
     
