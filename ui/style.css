@@ -40,9 +40,10 @@ body {
     top:40px;
     
     background-color:black;
-    
-    height:30px;
+    margin-left:0;
+    height:600px;
     width:100%;
+    opacity:0.5;
   
     
 
