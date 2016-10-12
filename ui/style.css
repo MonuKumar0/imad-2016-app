@@ -8,57 +8,6 @@ body {
     text-align: center;
         background-color:lightblue;
 }
-.div1{
-    height:50px;
-    background-color:maroon;
-    
-    width:50%;
-    position:absolute;
-    margin:0;
-    top:0;
-    left:340px;
-    
-    opacity:0.5;
-    
-    
-    
-}
-#divs{
-    position:absolute;
-    
-    top:25px;
-    left:0;
-    height:470px;
-    width:150px;
-    background-color:Gray;
-}
-
-
-#div2{
-    position:absolute;
-    top:60px;
-    left:340px;
-    background-color:black;
-
-    height:450px;
-    width:50%;
-    opacity:0.3;
-  
-    
-
-    
-}
-#div3{
-    
-        position:absolute;
-    top:530px;
-    
-    background-color:white;
-
-    height:150px;
-    width:1335px;
-    opacity:0.3;
-}
 
 
 
@@ -69,23 +18,7 @@ body {
     font-size: 300%;
 }
 
-.or{
-    position:absolute;
-    right:120px;
-    top:0;
-}
-#sgn{
-    position:absolute;
-    right:40px;
-    top:8px;
-    height:30px;
-    width:5%;
-    background-color:springgreen;
-    border:2px solid;
-    border-color:white;
-    color:white;
-    line-height:30px;
-}
+
 .bg{
     background-image:url(/b.jpg);
   
@@ -93,12 +26,7 @@ body {
   
     
 }
-.frm{
-    position:absolute;
-    top:13px;
-    left:800px;
-    border-radius:10px;
-}
+
 
 .bold {
     font-weight: bold;
