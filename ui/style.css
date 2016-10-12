@@ -78,10 +78,10 @@ body {
 #sgnfb{
     height:40px;
     width:300px;
-    background-color:aqua;
+    background-color:blue;
     margin-top:5px;
     border-radius:5px;
-    border-color:aqua;
+    border-color:blue;
     color:white;
     font-size:18px;
 }
