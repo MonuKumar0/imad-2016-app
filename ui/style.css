@@ -35,6 +35,19 @@ body {
     border-color:springgreen;
     
 }
+#div2{
+    position:absolute;
+    top:40px;
+    
+    background-color:black;
+    
+    height:30px;
+    width:100%;
+  
+    
+
+    
+}
 .images{
     position:absolute;
     top=0;
