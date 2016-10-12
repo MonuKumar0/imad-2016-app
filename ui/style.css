@@ -32,7 +32,8 @@ body {
     right:80px;
 }
 #frmdiv{
-  
+  height:30px;
+  width:50px;
     background-color:white;
 }
 #b{
