@@ -23,7 +23,7 @@ body {
     
     
 }
-.divs{
+#divs{
     position:absolute;
     height:450px;
     top:0;
