@@ -49,6 +49,7 @@ body {
 #dob{
    margin-top:5px; 
    color:white;
+   text-align:left;
 }
 #btn{
     position:absolute;
