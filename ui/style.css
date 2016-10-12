@@ -69,6 +69,8 @@ body {
     margin-top:5px;
     border-radius:5px;
     border-color:aqua;
+    color:white;
+    font-size:18px;
 }
 #btn{
     position:absolute;
