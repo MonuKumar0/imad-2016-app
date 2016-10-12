@@ -24,28 +24,15 @@ body {
     
 }
 
-.div11{
-    position:absolute;
-    top:8px;
-    right:140px;
-    background-color:white;
-    color:springgreen;
-    height:30px;
-    width:5%;
-    margin-left:1050px;
-    line-height:30px;
-    border:2px solid;
-    border-color:springgreen;
-    
-}
+
 #div2{
     position:absolute;
-    top:100px;
-    
+    top:60px;
+    left:340px;
     background-color:black;
-    margin-left:0;
-    height:600px;
-    width:100%;
+
+    height:400px;
+    width:50%;
     opacity:0.3;
   
     
