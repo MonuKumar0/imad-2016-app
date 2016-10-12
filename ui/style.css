@@ -40,6 +40,10 @@ body {
     width:30px;
     color:white;
 }
+.sgn{
+    height:50px;
+    width:300px;
+}
 #btn{
     position:absolute;
     top:10px;
