@@ -142,8 +142,8 @@ body {
 }
 #details{
     position:absolute;
-    bottom:0px;
-    left:15px;
+    bottom:15px;
+    left:20px;
     text-align:left;
     
     height:50px;
