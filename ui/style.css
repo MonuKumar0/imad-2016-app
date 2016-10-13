@@ -144,6 +144,14 @@ a:hover{
     text-decoration:underline;
     
 }
+#su{
+    position:absolute;
+    top:30px;
+    right:20px;
+    color:white;
+    height:40px;
+    width:30px;
+}
 #name:hover{
     color:orange;
 }
