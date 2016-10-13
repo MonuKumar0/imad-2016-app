@@ -145,6 +145,7 @@ a:hover{
     
 }
 #su{
+    text-align:left;
     position:absolute;
     top:30px;
     right:20px;
