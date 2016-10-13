@@ -132,9 +132,7 @@ body {
 a:hover{
     color:orange;
 }
-a:visited{
-    color:white;
-}
+
 #about{
     position:absolute;
     bottom:60px;
