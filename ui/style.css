@@ -149,6 +149,9 @@ body {
     height:50px;
     width:400px;
 }
+a:link{
+    color:white;
+}
 #frmdiv{
   height:30px;
   width:50px;
