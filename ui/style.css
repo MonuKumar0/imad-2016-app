@@ -125,8 +125,8 @@ body {
     
     border:2px solid;
     border-color:aqua;
-    background-color:black;
-    color:aqua;
+    background-color:aqua;
+    color:white;
     border-radius:5px; 
 }
 a:hover{
