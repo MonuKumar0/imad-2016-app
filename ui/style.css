@@ -151,6 +151,7 @@ body {
 }
 a:link{
     color:white;
+    text-decoration:none;
 }
 #frmdiv{
   height:30px;
