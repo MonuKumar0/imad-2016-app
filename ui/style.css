@@ -144,6 +144,9 @@ a:hover{
     text-decoration:underline;
     
 }
+#details:hover{
+    color:orange;
+}
 #details{
     position:absolute;
     bottom:15px;
