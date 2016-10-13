@@ -140,6 +140,15 @@ body {
     text-decoration:underline;
     
 }
+#details{
+    position:absolute;
+    bottom:30px;
+    left:20px;
+    text-align:center;
+    
+    height:50px;
+    width:400px;
+}
 #frmdiv{
   height:30px;
   width:50px;
