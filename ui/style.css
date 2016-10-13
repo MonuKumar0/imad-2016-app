@@ -23,6 +23,7 @@ body {
     background-image:url(/g.jpg);
   color:white;
   text-align:center;
+  width:1370px;
   
     
 }
@@ -144,7 +145,7 @@ body {
     left:0px;
     right:0px;
     bottom:0px;
-    width:1400px;
+    width:1370px;
     height:100px;
     background-color:black;
 }
