@@ -139,6 +139,13 @@ body {
     color:aqua;
     border-radius:5px;
 }
+#name{
+    height:30px;
+    width:500px;
+    position:absolute;
+    top:0;
+    left:20px;
+}
 #footer{
     
     position:absolute;
