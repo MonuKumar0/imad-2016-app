@@ -147,11 +147,11 @@ a:hover{
 #su{
     text-align:left;
     position:absolute;
-    top:30px;
+    top:12px;
     right:20px;
     color:white;
     height:40px;
-    width:30px;
+    width:60px;
 }
 #name:hover{
     color:orange;
