@@ -142,7 +142,7 @@ body {
 }
 #details{
     position:absolute;
-    bottom:30px;
+    bottom:0px;
     left:20px;
     text-align:center;
     
