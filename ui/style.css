@@ -150,11 +150,12 @@ body {
 #footer{
     
     position:absolute;
+    top:700px;
     left:0px;
     right:0px;
     bottom:0px;
     width:1374px;
-    height:70px;
+    height:100px;
     background-color:black;
     opacity:0.8;
 }
