@@ -18,6 +18,9 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
+app.get('/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname,  '49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg'));
+});
 app.get('/g.jpg', function (req, res) {
   res.sendFile(path.join(__dirname,  'g.jpg'));
 });
