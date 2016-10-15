@@ -132,9 +132,7 @@ body {
 a:hover{
     color:orange;
 }
-a{
-    color:white;
-}
+
 #about{
     position:absolute;
     bottom:60px;
@@ -209,7 +207,7 @@ a:link{
     top:10px;
     left:10px;
     text-align:left;
-    color:white;
+    
 }
 #footer{
     
