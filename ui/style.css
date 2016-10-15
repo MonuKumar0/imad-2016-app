@@ -175,7 +175,7 @@ background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
     width:60px;
 }
 #name:hover{
-    color:white;
+    color:orange;
 }
 #details{
     position:absolute;
@@ -207,6 +207,7 @@ a:link{
     top:10px;
     left:10px;
     text-align:left;
+    color:white;
 }
 #footer{
     
