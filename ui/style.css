@@ -144,6 +144,11 @@ a:hover{
     text-decoration:underline;
     
 }
+#vid{
+    position:absolute;
+    top:50px;
+    left:0;
+}
 #su{
     font-size:14px;
     text-align:left;
