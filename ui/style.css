@@ -177,6 +177,12 @@ background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
 #name:hover{
     color:orange;
 }
+#gmail:hover{
+    color:orange;
+}
+#facebook:hover{
+    color:orange;
+}
 #details{
     position:absolute;
     bottom:15px;
