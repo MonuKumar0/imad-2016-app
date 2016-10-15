@@ -146,8 +146,8 @@ a:hover{
 }
 #vid{
     position:absolute;
-    top:50px;
-    left:0;
+    top:100px;
+    left:100;
 }
 #su{
     font-size:14px;
