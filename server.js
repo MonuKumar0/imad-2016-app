@@ -18,7 +18,7 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 var pool=new Pool(config);
-app.get('articles/:art',function(req,res){
+app.get('/articles/:art',function(req,res){
     var name=req.params.art;
     pool.query('select * from articles where name='+name,function(err,result)
     {
