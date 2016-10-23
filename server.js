@@ -20,7 +20,7 @@ app.get('/', function (req, res) {
 var pool=new Pool(config);
 app.get('/articles/:art', function(req,res){
     var name=req.params.art;
-    pool.query('select * from articles where name='+name, function(err,result)
+    pool.query("select * from articles where name="+name, function(err,result)
     {
         if(err){
             res.status(500).send(err.toString());
