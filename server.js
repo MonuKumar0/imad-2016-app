@@ -22,13 +22,17 @@ app.get('/articles/:art', function(req,res){
     
     pool.query("select * from articles where name='article_one';", function(err,result)
     {
-        if(err){
+        if(err)
+        {
             res.status(500).send(err.toString());
         }
         else {
-            if(result.rows.length===0){
+            if(result.rows.length===0)
+            {
                 res.status(404).send('Article Not Found');
-            }else{
+            }
+            else
+            {
                 var articledata=result.rows[0];
                 res.send(createTemplate(articledata));
             }
