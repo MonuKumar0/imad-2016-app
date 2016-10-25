@@ -20,7 +20,7 @@ app.get('/', function (req, res) {
 var pool=new Pool(config);
 app.get('/articles', function(req,res){
     
-    pool.query("SELECT * from articles;", function(err,result)
+    pool.query("SELECT * FROM "+"articles;", function(err,result)
     {
         if(err)
         {
