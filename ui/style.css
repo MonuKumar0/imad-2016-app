@@ -155,10 +155,10 @@ a:hover{
 #s1{
     position:absolute;
     left:0px;
-    top:100px;
+    top:95px;
     height:50px;
     width:50px;
-    background-color:green;
+    background-color:blueviolet;
 }
 #me{position:absolute;
 bottom:0px;
