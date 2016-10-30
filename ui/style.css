@@ -159,7 +159,7 @@ a:hover{
     height:50px;
     width:50px;
     background-color:blue;
-    background-image:url(/image.png) ;
+    background:url(/profile.png);
 }
 #s2{
     position:absolute;
