@@ -160,6 +160,38 @@ a:hover{
     width:50px;
     background-color:blueviolet;
 }
+#s2{
+    position:absolute;
+    left:0px;
+    top:145px;
+    height:50px;
+    width:50px;
+    background-color:blueviolet;
+}
+#s3{
+    position:absolute;
+    left:0px;
+    top:195px;
+    height:50px;
+    width:50px;
+    background-color:blueviolet;
+}
+#s4{
+    position:absolute;
+    left:0px;
+    top:245px;
+    height:50px;
+    width:50px;
+    background-color:blueviolet;
+}
+#s5{
+    position:absolute;
+    left:0px;
+    top:295px;
+    height:50px;
+    width:50px;
+    background-color:blueviolet;
+}
 #me{position:absolute;
 bottom:0px;
 right:0px;
