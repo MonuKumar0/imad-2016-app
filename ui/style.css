@@ -207,7 +207,7 @@ a:hover{
 #s1{
     position:absolute;
     left:0px;
-    top:95px;
+    top:145px;
     height:50px;
     width:50px;
     
@@ -216,7 +216,7 @@ a:hover{
 #s2{
     position:absolute;
     left:0px;
-    top:145px;
+    top:195px;
     height:50px;
     width:50px;
     background:url(/image.png);
@@ -224,7 +224,7 @@ a:hover{
 #s3{
     position:absolute;
     left:0px;
-    top:195px;
+    top:245px;
     height:50px;
     width:50px;
     background:url(/Video.png);
@@ -232,7 +232,7 @@ a:hover{
 #s4{
     position:absolute;
     left:0;
-    top:245px;
+    top:95px;
     height:50px;
     width:50px;
     background:url(/Cloudc.png);
