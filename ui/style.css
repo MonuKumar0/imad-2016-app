@@ -291,6 +291,13 @@ a:link{
     color:white;
     text-decoration:none;
 }
+#main{
+ position:absolute;
+    top:95px;
+    left:60px;   
+    width:775px;
+    height:400px;
+}
 #frmdiv{
   height:30px;
   width:50px;
