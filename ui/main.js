@@ -2,10 +2,10 @@ console.log('Loaded!');
 
 var im=document.getElementById('s2');
 var di=document.getElementById('m');
-
+im.onclick=function(){
 
     di.innerHTML="hohohohoho";
-
+};
 var margin=100;
     
 var request=new XMLHttpRequest();
