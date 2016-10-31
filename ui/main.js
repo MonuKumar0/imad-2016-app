@@ -5,7 +5,7 @@ var img=document.getElementById("s2");
 var div=getElementById("k");
 img.onClick=function()
 {
-    div.innerHTML="<html><body>hohohohoho</body></html>";
+    div.innerHTML="hohohohoho";
 };
 var margin=100;
     
