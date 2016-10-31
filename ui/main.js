@@ -7,11 +7,7 @@ im.onclick=function(){
 
     di.innerHTML="hohohohoho";
 };
-imad.onclick=function(){
 
-    di.innerHTML=
-    
-};
 var margin=100;
     
 var request=new XMLHttpRequest();
