@@ -254,11 +254,7 @@ background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
     width:80px;
     height:95px;
 }
-#vid{
-    position:absolute;
-    top:95px;
-    left:60px;
-}
+
 #su{
     font-size:14px;
     text-align:left;
@@ -297,6 +293,7 @@ a:link{
     left:60px;   
     width:790px;
     height:450px;
+    background-color:white;
 }
 #frmdiv{
   height:30px;
