@@ -1,10 +1,16 @@
 console.log('Loaded!');
 
 var im=document.getElementById('s2');
+var imad=document.getElementById('s4');
 var di=document.getElementById('m');
 im.onclick=function(){
 
     di.innerHTML="hohohohoho";
+};
+imad.onclick=function(){
+
+    di.innerHTML=
+    
 };
 var margin=100;
     
