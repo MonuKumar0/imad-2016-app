@@ -3,7 +3,7 @@ var k=document.getElementById("main");
 k.innerHTML="Hi,This is Monu Kumar";
 var img=document.getElementById("s2");
 var div=getElementById("k");
-img.onClick=function()
+img.onclick=function()
 {
     div.innerHTML="hohohohoho";
 };
