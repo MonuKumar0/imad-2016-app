@@ -1,23 +1,13 @@
 console.log('Loaded!');
 var k=document.getElementById("main");
 k.innerHTML="Hi,This is Monu Kumar";
-var img=document.getElementById('im');
-
-var margin=100;
-function  move(){
-    img.style.marginLeft=margin+"px";
-    margin=margin+10;
-}
-img.onclick=function (){
-var interval=setInterval(move,50);
-
-    
+var img=document.getElementById("s2");
+var div=getElementById("k");
+img.onClick=function()
+{
+    div.innerHTML="<html><body>hohohohoho</body></html>";
 };
-var counter=0;
-var button=document.getElementById("b");
-button.onclick=function(){
-    var nameInput=document.getElementById("name");
-    var name=nameInput.value;
+var margin=100;
     
 var request=new XMLHttpRequest();
 request.onreadystatechange=function(){
@@ -36,6 +26,7 @@ request.onreadystatechange=function(){
         }
     }
 };
+
             request.open("GET","http://monukumar0.imad.hasura-app.io/submit-name?name="+name,true);
 request.send(null);
 
