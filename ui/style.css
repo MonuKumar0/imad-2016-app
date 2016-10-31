@@ -152,7 +152,7 @@ a:hover{
     height:30px;
     color:red;
 }
-#s1.t1 {
+#s1 .t1 {
     visibility:hidden;
     width:100px;
     background-color:black;
@@ -162,7 +162,7 @@ a:hover{
     z-index:1;
     
 }
-#s1:hover.t1{
+#s1:hover .t1{
     visibility:visible;
 }
 #s1{
