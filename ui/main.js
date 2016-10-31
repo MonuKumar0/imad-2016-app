@@ -8,7 +8,7 @@ im.onclick=function(){
     di.innerHTML="hohohohoho";
 };
 imad.onclick=function(){
-  di.innerHTML="<iframe width=750px height=400pxsrc=https://www.youtube.com/embed/YC__12iAJGc></iframe>" ;
+  di.innerHTML="<iframe width=750px height=400px src=https://www.youtube.com/embed/YC__12iAJGc></iframe>" ;
 };
 var margin=100;
     
