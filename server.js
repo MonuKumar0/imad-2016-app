@@ -58,8 +58,8 @@ app.get('/Cloudc.png', function (req, res) {
 app.get('/Video.png', function (req, res) {
   res.sendFile(path.join(__dirname,  'Video.png'));
 });
-app.get('/arrow.png', function (req, res) {
-  res.sendFile(path.join(__dirname,  'arrow.png'));
+app.get('/arrowc.png', function (req, res) {
+  res.sendFile(path.join(__dirname,  'arrowc.png'));
 });
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
