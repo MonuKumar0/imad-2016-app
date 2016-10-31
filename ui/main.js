@@ -1,12 +1,9 @@
 console.log('Loaded!');
-var k=document.getElementById("main");
-k.innerHTML="Hi,This is Monu Kumar";
+
 var im=document.getElementById('s2');
 var di=document.getElementById('s6');
-im.onclick=function()
-{
     di.innerHTML="hohohohoho";
-};
+
 var margin=100;
     
 var request=new XMLHttpRequest();
