@@ -1,7 +1,8 @@
 console.log('Loaded!');
 
 var im=document.getElementById('s2');
-var di=document.getElementById('s6');
+var di=document.getElementById('m');
+
     di.innerHTML="hohohohoho";
 
 var margin=100;
