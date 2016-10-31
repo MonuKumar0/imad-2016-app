@@ -1,11 +1,11 @@
 console.log('Loaded!');
 var k=document.getElementById("main");
 k.innerHTML="Hi,This is Monu Kumar";
-var img=document.getElementById("s2");
-var div=getElementById("k");
-img.onclick=function()
+var im=document.getElementById("s2");
+var di=getElementById("k");
+im.onclick=function()
 {
-    div.innerHTML="hohohohoho";
+    di.innerHTML="hohohohoho";
 };
 var margin=100;
     
