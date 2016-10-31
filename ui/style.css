@@ -155,7 +155,7 @@ a:hover{
 #s1 .t1 {
     visibility:hidden;
     width:100px;
-    background-color:black;
+    background:transparent;
     color:#fff;
     text-align:center;
     position:absolute;
