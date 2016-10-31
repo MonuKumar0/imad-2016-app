@@ -191,7 +191,7 @@ a:hover{
     top:295px;
     height:10px;
     width:10px;
-    background-color:honeydew;
+    background:url(/arrow.png);
 }
 #me{position:absolute;
 bottom:0;
