@@ -189,8 +189,8 @@ a:hover{
     position:absolute;
     left:0;
     top:295px;
-    height:40px;
-    width:40px;
+    height:30px;
+    width:30px;
     background:url(/arrow.png);
 }
 #me{position:absolute;
