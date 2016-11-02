@@ -10,10 +10,12 @@ im.onclick=function(){
 };
 pr.onclick=function(){
     di.innerHTML="";
+    di.style.border="thick solid blue";
 
     di.style.backgroundColor="AliceBlue";
 };
 imad.onclick=function(){
+    di.style.border="";
   di.innerHTML="<iframe width=750px height=400px src='https://www.youtube.com/embed/YC__12iAJGc'></iframe>" ;
 };
 var margin=100;
