@@ -22,7 +22,7 @@ bar.style.top="278px";
 };
 
 pr.onclick=function(){
-    di.innerHTML="";
+    di.innerHTML="<div style="position:absolute;top:50px;background-color:red;"></div>";
     di.style.border="thick solid blue";
     bar.style.top="190px";
 
