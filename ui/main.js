@@ -1,11 +1,16 @@
 console.log('Loaded!');
 
 var im=document.getElementById('s2');
+var pr=document.getElementById('s1');
 var imad=document.getElementById('s4');
 var di=document.getElementById('m');
 im.onclick=function(){
 
     di.innerHTML="hohohohoho";
+};
+pr.onclick=function(){
+
+    di.style.backgroundColor="red";
 };
 imad.onclick=function(){
   di.innerHTML="<iframe width=750px height=400px src='https://www.youtube.com/embed/YC__12iAJGc'></iframe>" ;
