@@ -6,7 +6,7 @@ var imad=document.getElementById('s4');
 var di=document.getElementById('m');
 var bar=document.getElementById('s5');
 im.onclick=function(){
-bar.style.top="140px";
+
      di.innerHTML="";
     di.style.border="thick solid blue";
 
@@ -20,6 +20,7 @@ pr.onclick=function(){
     di.style.backgroundColor="AliceBlue";
 };
 imad.onclick=function(){
+    bar.style.top="140px";
     di.style.border="";
   di.innerHTML="<iframe width=750px height=400px src='https://www.youtube.com/embed/YC__12iAJGc'></iframe>" ;
 };
