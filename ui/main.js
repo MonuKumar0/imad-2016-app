@@ -14,7 +14,7 @@ bar.style.top="237px";
     di.style.backgroundColor="AliceBlue";
 };
 vid.onclick=function(){
-bar.style.top="284px";
+bar.style.top="283px";
      di.innerHTML="";
     di.style.border="thick solid blue";
 
