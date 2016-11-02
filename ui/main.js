@@ -6,7 +6,7 @@ var imad=document.getElementById('s4');
 var di=document.getElementById('m');
 var bar=document.getElementById('s5');
 im.onclick=function(){
-
+bar.style.top="240px";
      di.innerHTML="";
     di.style.border="thick solid blue";
 
