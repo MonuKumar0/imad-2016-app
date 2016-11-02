@@ -246,6 +246,7 @@ a:hover{
     width:50px;
     background-color:white;
     opacity:0.4;
+    border-radius:2px;
 }
 #me{position:absolute;
 bottom:0;
