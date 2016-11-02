@@ -15,7 +15,7 @@ im.onclick=function(){
 pr.onclick=function(){
     di.innerHTML="";
     di.style.border="thick solid blue";
-    bar.style.top="200px";
+    bar.style.top="180px";
 
     di.style.backgroundColor="AliceBlue";
 };
