@@ -5,6 +5,7 @@ var pr=document.getElementById('s1');
 var imad=document.getElementById('s4');
 var di=document.getElementById('m');
 var bar=document.getElementById('s5');
+var vid=document.getElementById('s3');
 im.onclick=function(){
 bar.style.top="237px";
      di.innerHTML="";
@@ -12,6 +13,14 @@ bar.style.top="237px";
 
     di.style.backgroundColor="AliceBlue";
 };
+vid.onclick=function(){
+bar.style.top="287px";
+     di.innerHTML="";
+    di.style.border="thick solid blue";
+
+    di.style.backgroundColor="AliceBlue";
+};
+
 pr.onclick=function(){
     di.innerHTML="";
     di.style.border="thick solid blue";
