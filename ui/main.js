@@ -11,7 +11,7 @@ im.onclick=function(){
 pr.onclick=function(){
     di.innerHTML="";
 
-    di.style.backgroundColor="red";
+    di.style.backgroundColor="AliceBlue";
 };
 imad.onclick=function(){
   di.innerHTML="<iframe width=750px height=400px src='https://www.youtube.com/embed/YC__12iAJGc'></iframe>" ;
