@@ -6,7 +6,10 @@ var imad=document.getElementById('s4');
 var di=document.getElementById('m');
 im.onclick=function(){
 
-    di.innerHTML="hohohohoho";
+     di.innerHTML="";
+    di.style.border="thick solid blue";
+
+    di.style.backgroundColor="AliceBlue";
 };
 pr.onclick=function(){
     di.innerHTML="";
