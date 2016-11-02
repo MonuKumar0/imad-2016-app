@@ -9,6 +9,7 @@ im.onclick=function(){
     di.innerHTML="hohohohoho";
 };
 pr.onclick=function(){
+    di.innerHTML="";
 
     di.style.backgroundColor="red";
 };
