@@ -4,6 +4,7 @@ var im=document.getElementById('s2');
 var pr=document.getElementById('s1');
 var imad=document.getElementById('s4');
 var di=document.getElementById('m');
+var bar=document.getElementById('s5');
 im.onclick=function(){
 
      di.innerHTML="";
@@ -14,6 +15,7 @@ im.onclick=function(){
 pr.onclick=function(){
     di.innerHTML="";
     di.style.border="thick solid blue";
+    bar.style.top="200px";
 
     di.style.backgroundColor="AliceBlue";
 };
