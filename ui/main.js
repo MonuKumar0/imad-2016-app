@@ -22,7 +22,7 @@ bar.style.top="278px";
 };
 
 pr.onclick=function(){
-    di.innerHTML="<div style="+"position:absolute;top:50px;background-color:red;height:50px;width:50px></div>";
+    di.innerHTML="<div style="+"position:absolute;top:20px;right:10px;background:url(/IMG_20160419_163015.jpg);height:100px;width:100p;x></div>";
     di.style.border="thick solid blue";
     bar.style.top="190px";
 
