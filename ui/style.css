@@ -217,6 +217,15 @@ a:hover{
 #s1:hover{
 opacity:0.5;
 }
+#s2:hover{
+opacity:0.5;
+}
+#s3:hover{
+opacity:0.5;
+}
+#s4:hover{
+opacity:0.5;
+}
 #s2{
     position:absolute;
     left:0px;
