@@ -213,6 +213,9 @@ a:hover{
     
     background:url(/profile.png);
 }
+#s1:hover{
+opacity:0.5;
+}
 #s2{
     position:absolute;
     left:0px;
