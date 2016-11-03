@@ -70,6 +70,9 @@ app.get('/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg', function (req, res) {
 app.get('/g.jpg', function (req, res) {
   res.sendFile(path.join(__dirname,  'g.jpg'));
 });
+app.get('/img.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname,  'img.jpg'));
+});
 
 app.get('/ui/IMG_20160524_001023.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'IMG_20160524_001023.jpg'));
