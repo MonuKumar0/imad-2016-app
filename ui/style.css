@@ -164,6 +164,7 @@ a:hover{
 }
 #s1:hover .t1{
     visibility:visible;
+    opacity:1.0;
 }
 #s2 .t2 {
     visibility:hidden;
