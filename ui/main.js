@@ -22,7 +22,7 @@ bar.style.top="278px";
 };
 
 pr.onclick=function(){
-    di.innerHTML="<div style="+"position:absolute;border-radius:5px;top:10px;right:10px;background-image:url(/img.jpg);height:250px;width:188px;></div><div style=position:absolute;color:black;top:10px;left:10px;height:300px;width:300px;>Name:Monu Kumar<br>Age:19 Yrs</div>";
+    di.innerHTML="<div style="+"position:absolute;border-radius:5px;top:10px;right:10px;background-image:url(/img.jpg);height:250px;width:188px;></div><div style=position:absolute;color:black;text-align:left;top:10px;left:10px;height:300px;width:300px;>Name:Monu Kumar<br>Age:19 Yrs</div>";
     di.style.border="thick solid blue";
     bar.style.top="190px";
 
