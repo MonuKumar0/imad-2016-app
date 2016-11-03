@@ -164,6 +164,7 @@ a:hover{
 }
 #s1:hover .t1{
     visibility:visible;
+    z-index:1;
     
 }
 #s2 .t2 {
@@ -178,6 +179,7 @@ a:hover{
 }
 #s2:hover .t2{
     visibility:visible;
+    z-index:1;
 }
 #s3 .t3 {
     visibility:hidden;
@@ -191,6 +193,7 @@ a:hover{
 }
 #s3:hover .t3{
     visibility:visible;
+    z-index:1;
 }
 #s4 .t4 {
     visibility:hidden;
@@ -204,6 +207,7 @@ a:hover{
 }
 #s4:hover .t4{
     visibility:visible;
+    z-index:1;
 }
 #s1{
     position:absolute;
