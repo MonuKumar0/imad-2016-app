@@ -220,6 +220,7 @@ a:hover{
 }
 #s1:hover{
 opacity:0.5;
+z-index:1;
 }
 #s2:hover{
 opacity:0.5;
