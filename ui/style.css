@@ -273,7 +273,8 @@ z-index:1;
     opacity:0.4;
     border-radius:2px;
 }
-#me{position:absolute;
+#me{
+    position:absolute;
 bottom:0;
 right:0;
 background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
@@ -294,9 +295,7 @@ background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
 #name:hover{
     color:orange;
 }
-#name:visited{
-    color:white;
-}
+
 #gmail:hover{
     color:orange;
 }
@@ -315,6 +314,9 @@ background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
 a:link{
     color:white;
     text-decoration:none;
+}
+a:visited{
+    color:white;
 }
 #m{
  position:absolute;
