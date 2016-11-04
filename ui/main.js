@@ -9,14 +9,14 @@ var vid=document.getElementById('s3');
 im.onclick=function(){
 bar.style.top="237px";
      di.innerHTML="";
-    di.style.border="thick solid blue";
+    di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
 };
 vid.onclick=function(){
 bar.style.top="278px";
      di.innerHTML="";
-    di.style.border="thick solid blue";
+    di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
 };
