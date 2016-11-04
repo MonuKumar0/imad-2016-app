@@ -294,6 +294,9 @@ background-image:url(/49be6b5a-9690-4e04-b6fb-7e194463d0d7.jpg);
 #name:hover{
     color:orange;
 }
+#name:visited{
+    color:white;
+}
 #gmail:hover{
     color:orange;
 }
