@@ -22,7 +22,7 @@ bar.style.top="278px";
 };
 
 pr.onclick=function(){
-    di.innerHTML="<div style="+"position:absolute;border-radius:5px;top:10px;right:10px;background-image:url(/img.jpg);height:250px;width:188px;></div><div style=position:absolute;color:black;text-align:left;top:10px;left:10px;height:300px;width:300px;>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monu Kumar<br>Age &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 Yrs<br>Hometown:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amroha<br>Current City:Ghaziabad<br>Skills:Java, C, SQL,Android Basics etc.<br>Contact:8077601517<br>Email:kumarmonu0522@gmail.com<br>Current Status:Student B.Tech(IT) at ABES Engineering College</div>";
+    di.innerHTML="<div style="+"position:absolute;border-radius:5px;top:10px;right:10px;background-image:url(/img.jpg);height:250px;width:188px;></div><div style=position:absolute;color:black;text-align:left;top:10px;left:10px;height:300px;width:300px;>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monu Kumar<br>Age &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 Yrs<br>Hometown:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amroha<br>Current City:Ghaziabad<br>Skills:Java, C, SQL,Android Basics etc.<br>Contact:8077601517<br>Email:kumarmonu0522@gmail.com<br>Current Status:Student B.Tech(IT) at ABES Engineering College</div>";
     di.style.border="thick solid aqua";
     bar.style.top="190px";
 
