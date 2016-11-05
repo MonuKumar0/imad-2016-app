@@ -46,6 +46,9 @@ app.get('/IMG_20160419_163015.jpg', function (req, res) {
 app.get('/linkedin.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'linkedin.png'));
 });
+app.get('/facebook.png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'facebook.png'));
+});
 app.get('/ui/main.js', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'main.js'));
 });
