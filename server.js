@@ -44,7 +44,7 @@ app.get('/IMG_20160419_163015.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'IMG_20160419_163015.jpg'));
 });
 app.get('/rsz_bd.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'bd.jpg'));
+  res.sendFile(path.join(__dirname, 'rsz_bd.jpg'));
 });
 app.get('/linkedin.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'linkedin.png'));
