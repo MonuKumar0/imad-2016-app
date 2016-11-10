@@ -8,7 +8,7 @@ var bar=document.getElementById('s5');
 var vid=document.getElementById('s3');
 im.onclick=function(){
 bar.style.top="237px";
-     di.innerHTML="<div style=width:750px;height:400px;overflow:scroll;><img src=rsz_bd.jpg></img></div>";
+     di.innerHTML="<div style=width:750px;height:400px;overflow:scroll;><img src=rsz_bd.jpg></img><br><img src=rsz_bd1.jpg></img></div>";
     di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
