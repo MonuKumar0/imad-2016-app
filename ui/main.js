@@ -15,7 +15,7 @@ bar.style.top="237px";
 };
 vid.onclick=function(){
 bar.style.top="278px";
-     di.innerHTML="<div style=width:300px;height:300px;position:absolute;top:20px;left:20px;background-color:red;></div>";
+     di.innerHTML="<div style=width:150px;height:150px;position:absolute;top:20px;left:20px;background-color:red;></div>";
     di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
