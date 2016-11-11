@@ -15,7 +15,7 @@ bar.style.top="237px";
 };
 vid.onclick=function(){
 bar.style.top="278px";
-     di.innerHTML="<div id='d' onclick='f()' style=position:absolute;width:225px;height:150px;top:20px;left:20px;><iframe width=225px height=150px src='https://www.youtube.com/embed/zmEG-5zEmPw'></iframe></div><div style=position:absolute;width:225px;height:150px;top:20px;left:260px;><iframe width=225px height=150px src='https://www.youtube.com/embed/gQRsgFw7tcg'></iframe></div><div style=position:absolute;width:225px;height:150px;top:20px;left:500px;><iframe width=225px height=150px src='https://www.youtube.com/embed/t14MwuWH_ts'></iframe></div><script>function f(){document.getElementById('d').innerHTML='';}</script>";
+     di.innerHTML="<div id='d' onclick='f()' style=position:absolute;width:225px;height:150px;top:20px;left:20px;><iframe width=225px height=150px src='https://www.youtube.com/embed/zmEG-5zEmPw'></iframe></div><div style=position:absolute;width:225px;height:150px;top:20px;left:260px;><iframe width=225px height=150px src='https://www.youtube.com/embed/gQRsgFw7tcg'></iframe></div><div style=position:absolute;width:225px;height:150px;top:20px;left:500px;><iframe width=225px height=150px src='https://www.youtube.com/embed/t14MwuWH_ts'></iframe></div><script>function f(){document.getElementById('d').innerHTML='jhbibui';}</script>";
     di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
