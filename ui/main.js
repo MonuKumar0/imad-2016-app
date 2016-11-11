@@ -15,7 +15,7 @@ bar.style.top="237px";
 };
 vid.onclick=function(){
 bar.style.top="278px";
-     di.innerHTML="<div style=position:absolute;width:225px;height:150px;top:20px;left:20px;background-color:red;></div><div style=position:absolute;width:225px;height:150px;top:20px;left:260px;background-color:red;></div><div style=position:absolute;width:225px;height:150px;top:20px;left:420px;background-color:red;></div>";
+     di.innerHTML="<div style=position:absolute;width:225px;height:150px;top:20px;left:20px;background-color:red;></div><div style=position:absolute;width:225px;height:150px;top:20px;left:260px;background-color:red;></div><div style=position:absolute;width:225px;height:150px;top:20px;left:450px;background-color:red;></div>";
     di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
