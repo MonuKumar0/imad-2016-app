@@ -15,7 +15,7 @@ bar.style.top="237px";
 };
 vid.onclick=function(){
 bar.style.top="278px";
-     di.innerHTML="<div style=width:225px;height:150px;position:absolute;top:20px;left:20px;><iframe width=225px height=150px src='https://www.youtube.com/embed/gQRsgFw7tcg'/iframe></div>";
+     di.innerHTML="<div style=width:225px;height:150px;position:absolute;top:20px;left:20px;><iframe width=225px height=150px src='https://www.youtube.com/embed/gQRsgFw7tcg'/iframe></div><div style=width:225px;height:150px;position:absolute;top:20px;left:265px;><iframe width=225px height=150px src='https://www.youtube.com/embed/gQRsgFw7tcg'/iframe></div>";
     di.style.border="thick solid aqua";
 
     di.style.backgroundColor="AliceBlue";
