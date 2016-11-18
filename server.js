@@ -90,9 +90,7 @@ app.get('/img.jpg', function (req, res) {
 app.get('/ui/IMG_20160524_001023.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'IMG_20160524_001023.jpg'));
 });
-app.get('/ui/madi.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
-});
+
 var names=[];
 app.get("/submit-name",function(req,res){
     var name=req.query.name;
